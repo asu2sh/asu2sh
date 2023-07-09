@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ashutosh
-- 👀 I’m interested in DSA & Dev :)
-- 🌱 I’m currently working on Python🐍, Django & Django REST Framework.
-- 📫 How to reach me: I'm @asu2sh in most of the places ;)
+- 👋 Hi, I’m _Ashutosh_
+- 👀 I’m interested in _DSA_ & _Dev_ :)
+- 🌱 I’m currently working on __Python🐍__, __Django__ & __Django REST Framework__.
+- 📫 How to reach me: I'm _@asu2sh_ in most of the places ;)
 
