@@ -1,6 +1,6 @@
-<h2>Hi 👋, I'm Ashutosh</h2>
-<h3>A passionate Software Developer from India.</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=asu2sh&label=Profile%20views&color=0e75b6&style=flat" alt="asu2sh" /> </p>
+<h3>Hi 👋, I'm Ashutosh</h3>
+<h4>A passionate Software Developer from India.</h4>
+
 - 🔭 I’m currently working on **Django, and Django REST Framework.**
 - 🌱 I’m currently learning **React ⚛️**
 - ⚡ I’m interested in **DSA and Dev :)**
@@ -18,3 +18,5 @@
 <a href="https://www.leetcode.com/asu2sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asu2sh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/asu2sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="asu2sh" height="30" width="40" /></a>
 </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=asu2sh&label=Profile%20views&color=0e75b6&style=flat" alt="asu2sh" /> </p>
