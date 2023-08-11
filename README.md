@@ -1,4 +1,4 @@
-- ***Hi 👋, I'm*** **Ashutosh**
+- 👋 Hi , I'm **Ashutosh**
 - 🔭 I’m currently working on **Django**, and **Django REST Framework.**
 - ⚡ I’m interested in ***DSA*** and ***Dev :)***
 - 🌱 I’m currently learning **React ⚛️**
