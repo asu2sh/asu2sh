@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ashutosh</h1>
-<h3 align="center">A passionate Software Developer from India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asu2sh&label=Profile%20views&color=0e75b6&style=flat" alt="asu2sh" /> </p>
-
+<h2>Hi 👋, I'm Ashutosh</h2>
+<h3>A passionate Software Developer from India.</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=asu2sh&label=Profile%20views&color=0e75b6&style=flat" alt="asu2sh" /> </p>
 - 🔭 I’m currently working on **Django, and Django REST Framework.**
 - 🌱 I’m currently learning **React ⚛️**
 - ⚡ I’m interested in **DSA and Dev :)**
