@@ -1,10 +1,10 @@
-<h3>Hi 👋, I'm Ashutosh</h3>
+Hi 👋, I'm *Ashutosh*
 
-- 🔭 I’m currently working on **Django, and Django REST Framework.**
+- 🔭 I’m currently working on **Django**, and **Django REST Framework.**
+- ⚡ I’m interested in *DSA* and *Dev :)*
 - 🌱 I’m currently learning **React ⚛️**
-- ⚡ I’m interested in **DSA and Dev :)**
-- 💬 Ask me about **Python Development.**
-- 📫 How to reach me **skull2candy4u@gmail.com**
+- 💬 Ask me about *Python Development*
+- 📫 How to reach me *skull2candy4u@gmail.com*
 - 📄 Know about my experiences [here.](https://drive.google.com/file/d/1hfR3r3AsaCjO3U6llgdNqWMdJoJopPrp/view?usp=drive_link)
 
 <h3 align="left">Languages and Tools:</h3>
