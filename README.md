@@ -3,5 +3,5 @@
 - ⚡ I’m interested in ***DSA*** and ***Dev :)***
 - 🌱 I’m currently learning **React ⚛️**
 - 💬 Ask me about *Python Development*
-- 📫 How to reach me *skull2candy4u@gmail.com*
+- 📫 How to reach me *asu2shy@gmail.com*
 - 📄 Know about my experiences [here.](https://drive.google.com/file/d/1hfR3r3AsaCjO3U6llgdNqWMdJoJopPrp/view?usp=drive_link)
