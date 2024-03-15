@@ -1,7 +1,6 @@
 - 👋 Hi , I'm **Ashutosh**
-- 🔭 I’m currently working on **Django**, and **Django REST Framework.**
-- ⚡ I’m interested in ***DSA*** and ***Dev :)***
-- 🌱 I’m currently learning **FastAPI**
-- 💬 Ask me about *Python Development*
+- 🔭 I’m a Backend Developer, currently working on **Django**, and **Django REST Framework.**
+- 🌱 I’m currently learning **FastAPI**⚡
+- 💬 Ask me about *Python Development*🐍
 - 📫 How to reach me *asu2shy@gmail.com*
 - 📄 Know about my experiences [here.](https://drive.google.com/file/d/1Xjqw7T5KYlHP0yt9E-mTittYKsKT3Nfc/view?usp=drive_link)
