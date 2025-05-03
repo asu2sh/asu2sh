@@ -1,8 +1,8 @@
 - 👋 Hi there, I'm **Ashutosh Kumar**
-- 🔭 I’m a Backend Developer, currently working with **Django**, **Django REST Framework** and **FastAPI**
-- 🌱 I’m currently learning *Data Structures*, *Algorithms* and **Go**
+- 🔭 I’m a Backend Developer, currently working with **Django**, **Django REST Framework** and **Go**
+- 🌱 I’m currently learning *System Design*
 - 🎨 In my free time, I 💗 doing *Creative Coding* with **p5.js**🌸 and play **Chess**♟️
-- 💬 Ask me about *Python🐍 Development* and *AstroPhysics*🌌
+- 💬 Ask me about *Python🐍/Golang Development* and *AstroPhysics*🌌
 - 📫 Reach me at **asu2shy@gmail.com**
 - 📄 Know about my experiences *[here](https://drive.google.com/file/d/1Xjqw7T5KYlHP0yt9E-mTittYKsKT3Nfc/view?usp=drive_link)*
 
